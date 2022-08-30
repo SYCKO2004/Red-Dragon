@@ -48,7 +48,7 @@ global.owner = ['+94775807293']
 global.ownertag = '+94775807293' //your tag number
 global.botname = 'SYCKO - BOT' //ur bot name
 global.packname = "SYCKO" // sticker packname
-global.author = "SHANA" // sticker author
+global.author = "BOT" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ SYCKO SHANA ]' //
 
